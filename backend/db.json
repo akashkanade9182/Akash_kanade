@@ -1,0 +1,132 @@
+[
+    
+     {
+      "_id": 1,
+      "name":"Salesforce" ,
+      "companyId": 3,
+      "primaryText": "The world’s leading CRM is ready to help you simplify the business part of your small business.",
+      "headline": "Salesforce for Small Business",
+      "description": "good product with good quality ",
+      "CTA": "Sign Up",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/salesforce.jpg?updatedAt=1683443241528"
+     },
+     {
+      "_id": 2,
+      "name":"Levi's" ,
+      "companyId": 1,
+      "primaryText": "We like where you’re going with this.",
+      "headline": "Relaxed Fit Men's Jeans",
+      "description": "good product with good quality ",
+      "CTA": "Shop Now",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/levis.jpg?updatedAt=1683443171304"
+     },
+     {
+      "_id": 3,
+      "name":"Cotopaxi" ,
+      "companyId": 6,
+      "primaryText": "Teva x Cotopaxi is back! Celebrate eternal summer with limited-edition Teva x Cotopaxi Original Universal sandals in bold new colors.",
+      "headline": "Made With Recycled Plastic",
+      "description": "good product with good quality ",
+      "CTA": "Shop Now",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/cotopaxi.jpg?updatedAt=1683443338855"
+     },
+     {
+      "_id": 4,
+      "name":"Netflix" ,
+      "companyId": 7,
+      "primaryText": "The Emmy-nominated Netflix comedy special from the late Norm Macdonald is his last gift to the world of comedy he helped shape.",
+      "headline": "Norm Macdonald's Nothing Special gives one last dose of the late comic",
+      "description": "good product with good quality ",
+      "CTA": "Learn More",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/normMacdonald.jpg?updatedAt=1683443413903"
+     },
+     {
+      "_id": 5,
+      "name":"Valentino" ,
+      "companyId": 9,
+      "primaryText": "Visit Valentino.com, discover the new products and shop now!",
+      "headline": "Valentino Hexagonal Metal Frame With Crystal Studs",
+      "description": "good product with good quality ",
+      "CTA": "Shop Now",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/valentino.jpg?updatedAt=1683443499476"
+     },
+     {
+      "_id": 6,
+      "name":"Purple" ,
+      "companyId": 11,
+      "primaryText": "Say ‘goodnight’ to sleeping hot 🔥 with Purple products—designed to dissipate heat.",
+      "headline": "Cooler Summers Start Here",
+      "description": "good product with good quality ",
+      "CTA": "Shop Now",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/purple-display-ads.jpg?updatedAt=1683443573061"
+     },
+     {
+      "_id": 7,
+      "name":"Curology" ,
+      "companyId": 10,
+      "primaryText": "Dark spots. Breakouts. Rosacea. Dull skin. Fine lines. Our formulas are custom-mixed for YOUR skin concerns.\n\n",
+      "headline": "Personalized skincare for dark spots, acne, and more.",
+      "description": "good product with good quality ",
+      "CTA": "Order Now",
+      "imageUrl": "https://ik.imagekit.io/u429hxupn/curology__1_.jpg?updatedAt=1683443645575"
+     }
+     
+    ]
+,
+    [
+     {
+          "id": 1,
+          "name":"Levi's" ,
+          "url":"http://levis.com/"
+     },
+     {
+          "id": 2,
+          "name":"Puma" ,
+          "url":"http://puma.com/"
+     },
+     {
+          "id": 3,
+          "name":"Salesforce" ,
+          "url":"http://salesforce.com/"
+     },
+     {
+          "id": 4,
+          "name":"Adidas" ,
+          "url":"http://adidas.com/"
+     },
+     {
+          "id": 5,
+          "name":"Nike" ,
+          "url":"http://nike.com/"
+     },
+     {
+          "id": 6,
+          "name":"Cotopaxi" ,
+          "url":"http://cotopaxi.com/"
+     },
+     {
+          "id": 7,
+          "name":"Netflix" ,
+          "url":"netflix.com"
+     },
+     {
+          "id": 8,
+          "name":"Colgate" ,
+          "url":"http://colgate.com/"
+     },
+     {
+          "id": 9,
+          "name":"Valentino" ,
+          "url":"http://valentino.com/"
+     },
+     {
+          "id": 10,
+          "name":"Curology" ,
+          "url":"http://curology.com/"
+     },
+     {
+          "id": 11,
+          "name":"Purple" ,
+          "url":"http://purple.com/"
+     }
+    ]
