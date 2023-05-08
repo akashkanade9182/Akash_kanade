@@ -1,0 +1,43 @@
+.mainbox{
+     width: 100%;
+}
+.resultbox{
+     width:90%;
+     margin: auto;
+          height: 50px; 
+     font-size: 25px;
+}
+.gridbox{
+     width:90%;
+     /* padding: 15px 15px; */
+     margin: auto;
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+     gap: 100px 70px;
+}
+.loadbox{
+     width: 100%;
+     height:600px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     border:1px solid blue
+}
+
+@media only screen and (max-width: 1440px){
+    .gridbox{
+     gap:100px 40px;
+    }
+ }
+ @media only screen and (max-width: 1024px){
+     .gridbox{
+          grid-template-columns: repeat(2,1fr);
+          gap:100px 40px;
+     }
+  }
+  @media only screen and (max-width: 425px){
+     .gridbox{
+          grid-template-columns: repeat(1,1fr);
+          gap:100px 40px;
+     }
+  }
