@@ -20,4 +20,4 @@
 ## search functionality:-
 1) Initially, you will get all ads result.
 
-2)To search enter keywords in the search bar and press the search icon
+2) To search enter keywords in the search bar and press the search icon
